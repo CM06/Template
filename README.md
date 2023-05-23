@@ -2,11 +2,13 @@
 
 The Emotion-Based Music Recommender App Template is a starting point for building a music recommendation app that suggests songs based on user emotions. It provides a foundation with basic functionality and structure, allowing you to customize and extend it to fit your specific requirements.
 
+
 ## Features
 - User authentication and registration
 - Emotion recognition using mood canvas in the app
 - Integration with a music recommendation engineg
 - Personalized music recommendations based on user emotions
+
 
 ## Installation
 
@@ -15,6 +17,7 @@ The Emotion-Based Music Recommender App Template is a starting point for buildin
 2. Open the project in Android Studio.
 
 3. Build and run the app on an emulator or physical device.
+
 
 
 ## Configuration
