@@ -10,12 +10,12 @@ The Emotion-Based Music Recommender App Template is a starting point for buildin
 - Personalized music recommendations based on user emotions
 
 ## UI images
-![Home page]("C:\Users\Chinmay\Pictures\Screenshots\Screenshot 2023-05-28 171322.png")
-![Mood input]("C:\Users\Chinmay\Pictures\Screenshots\Screenshot 2023-05-28 171405.png")
-![Recommendations]("C:\Users\Chinmay\Pictures\Screenshots\Screenshot 2023-05-28 171420.png")
+![Home page](https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171322.png)
+![Mood input](https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171405.png)
+![Recommendations](https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171420.png)
 - Register and login pages:
-![Register]("C:\Users\Chinmay\Pictures\Screenshots\Screenshot 2023-05-28 171000.png")
-![Login]("C:\Users\Chinmay\Pictures\Screenshots\Screenshot 2023-05-28 171253.png")
+![Register]("https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171000.png")
+![Login]("https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171253.png")
 
 ## Installation
 
