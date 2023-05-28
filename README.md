@@ -10,12 +10,19 @@ The Emotion-Based Music Recommender App Template is a starting point for buildin
 - Personalized music recommendations based on user emotions
 
 ## UI images
+
 ![Home page](https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171322.png)
+
 ![Mood input](https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171405.png)
+
 ![Recommendations](https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171420.png)
+
 - Register and login pages:
+
 ![Register](https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171000.png)
+
 ![Login](https://github.com/CM06/music-recommender-app-template/blob/master/UI%20Image/Screenshot%202023-05-28%20171253.png)
+
 
 ## Installation
 
